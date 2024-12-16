@@ -10,7 +10,10 @@ Example of sql logic compared to base python in sql r and python
         2 r sql
         3 python sql
         4 python base
-
+        
+github
+https://tinyurl.com/2e6bcevc
+https://github.com/rogerjdeangelis/utl-example-of-sql-logic-compared-to-base-python-in-sql-r-and-python-multi-language/blob/main/README.md
 
 /*               _     _
  _ __  _ __ ___ | |__ | | ___ _ __ ___
